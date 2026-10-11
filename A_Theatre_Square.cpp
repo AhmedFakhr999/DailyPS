@@ -37,7 +37,7 @@ vector<ll>spf(Maxy);
 
 void solve(){
 
-    int n,m, a , s ,z; 
+    ll n,m, a , s ,z; 
     cin>> n>> m >> a ; 
     // first we have to see if the width of rectangle will be fit for the square 
 
